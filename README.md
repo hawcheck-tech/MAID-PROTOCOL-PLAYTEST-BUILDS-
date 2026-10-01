@@ -1,5 +1,5 @@
 # MAID Protocol — Playtest Builds
-
+![MAID Protocol Banner](Assets/logo.png)
 This repository contains **work-in-progress playtest builds** of **MAID Protocol**.
 
 MAID Protocol is a PC-98-inspired android maid management game currently in development.
