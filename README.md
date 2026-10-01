@@ -55,11 +55,13 @@ When possible, include:
 
 A short report is completely fine. The important part is giving enough information to reproduce the problem.
 
-## Development
+## About the Author
 
-The main development repository is:
+**MAID Protocol is developed by Hawchick.**
 
-[MAID-PROTOCOL](https://github.com/hawcheck-tech/MAID-PROTOCOL)
+Follow the development and find more content on Twitch:
+
+[**twitch.tv/hawchick**](https://www.twitch.tv/hawchick)
 
 This repository is used specifically for distributing playtest builds.
 
